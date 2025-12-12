@@ -13,7 +13,7 @@ We propose an end-to-end pipeline bridging the "Mind-Body Gap" in embodied AI. T
 ### 1. End-to-End Conversation (RGB vs. Geometry)
 We visualize the rendered RGB video alongside the grayscale geometry to demonstrate the structural stability of the 3D Gaussians.
 
-![Comparison Demo](assets/comparison_demo.gif)
+![Comparison Demo](assets/demo.mp4)
 *(Left: Final Render, Right: 3D Gaussian Geometry)*
 
 ### 2. Fine-grained Dynamics (Eye Blinking)
