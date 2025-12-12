@@ -1,7 +1,7 @@
 # [Thesis Title] Digital Human System based on Qwen LLM and Gaussian Splatting
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Paper](https://img.shields.io/badge/Paper-Master's_Thesis-blue)](link-to-your-pdf-if-available)
+[![Paper](https://img.shields.io/badge/Paper-Master's_Thesis-blue)]([link-to-your-pdf-if-available](https://github.com/QR0806/GaussianTalker-Qwen-DigitalHuman/blob/main/NTU_EEE_MSc_Dissertation_Report_Template.pdf))
 
 ## 📖 Abstract
 This repository contains the implementation and demo materials for the Master's dissertation: **"Digital human system based on Qwen large language model and Gaussian Splatting"**. 
